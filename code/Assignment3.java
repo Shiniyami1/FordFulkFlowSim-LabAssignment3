@@ -1,5 +1,5 @@
-// Prepared by Taijus Aggarwal 250968018
-//Prepared by Mohommed Ali 250924795
+//Prepared by Taijus Aggarwal 250968018
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
